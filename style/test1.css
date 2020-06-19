@@ -1,0 +1,28 @@
+.section1{
+	margin: 40px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	font-family: 'Roboto', sans-serif;
+}
+.section1 .fa{
+	font-size: 35px;
+	color: #b68308;
+}
+.section1 div{
+	display: flex;
+	flex-direction: row;
+}
+.section-column{
+	padding-left: 15px;
+	display: flex;
+	flex-direction: column;
+}
+.span1{
+	font-size: 18px;
+	color: #000000;
+}
+.span2{
+	font-size: 14px;
+	color: #666666;
+}
